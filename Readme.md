@@ -70,6 +70,10 @@ Ramificação independente do desenvolvimento, a _branch_ padrão é chamada **m
 
 - descarta alterações do stage
 
+**git reset <arquivo>**
+
+- remove arquivo do stage sem descartar as alterações
+
 **git commit -m <mensagem commit>**
 
 - commita os arquivos no histórico
