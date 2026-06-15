@@ -86,6 +86,10 @@ Ramificação independente do desenvolvimento, a _branch_ padrão é chamada **m
 
     test: adição ou correção de teste
 
+**git commit --amend -m <nova mensagem>**
+
+- altera o comentário do último commit
+
 **git status**
 
 - mostra como está o estado da nossa modifcação
@@ -160,21 +164,13 @@ Ramificação independente do desenvolvimento, a _branch_ padrão é chamada **m
 ## Fluxo de Trabalho
 
 1. Começar uma nova feature
-
 2. Editar código para desenvolvimento da feature
-
 3.  Salvar alterações (commitar)
-
 4.  Empurrar alterações para o remoto (push)
-
 5. Aprovação
-
 6. Acessar a main
-
 7. Dar pull na main
-
 8. Mesclar 
-
 9. Push na main
 
-   
+## 
